@@ -1,0 +1,16 @@
+.Data_Area {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-around;
+  margin: auto auto;
+  background-color: #fff;
+}
+
+.Column {
+  padding-bottom: 30px;
+  background-color: #e8f4ff;
+  display: inline-block;
+  border: 2px solid #000;
+  margin-bottom: 10px;
+  text-align: center;
+}
